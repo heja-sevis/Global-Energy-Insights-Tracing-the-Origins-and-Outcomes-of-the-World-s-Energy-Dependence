@@ -426,4 +426,3 @@ elif page == "🔮 Energy Consumption Forecast":
         """)
 
         st.caption("📘 This summary is generated based on model outputs.")
-
