@@ -1,6 +1,7 @@
 # 🔌 Global Energy Insights: Tracing the Origins and Outcomes
 
-An advanced data science and machine learning dashboard designed to analyze, visualize, and forecast global energy consumption patterns. This project was developed as part of a **Computer Engineering Bachelor's Graduation Project**.
+An advanced data science and machine learning dashboard designed to analyze, visualize, and forecast global energy consumption patterns. 
+*This project was developed as part of a **Computer Engineering Bachelor's Graduation Project**.
 
 **🔗 Live:** [Global Energy Insights: Tracing the Origins and Outcomes View the Dashboard on Streamlit](https://global-energy-insights-tracing-the-origins-and-outcomes.streamlit.app)
 
@@ -35,7 +36,7 @@ This dashboard serves as a comprehensive tool for researchers and energy analyst
 
 ## 📂 Data Source
 
-The dataset is curated from Our World in Data (OWID), covering a wide range of energy metrics—including fossil fuels, renewables, and nuclear power—across over 200 countries from 1965 to 2024.
+The dataset is curated from Our World in Data (OWID), covering a wide range of energy metrics including fossil fuels, renewables, and nuclear power across over 200 countries from 1965 to 2024.
 
 ## 🎓 Graduation Thesis
 This project was developed as my **Computer Engineering Graduation Thesis**. 
