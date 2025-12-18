@@ -14,12 +14,12 @@ This dashboard serves as a comprehensive tool for researchers and energy analyst
 
 * **🏠 Home:** Project mission and feature summary.
 * **🌍 Global Map:** Spatial analysis of per capita energy consumption across different eras using interactive Plotly choropleth maps.
-* **🌐 Deep Analysis:** * Uses the **Apriori Algorithm** to identify hidden relationships between energy sources.
+* **🌐 Deep Analysis:** Uses the **Apriori Algorithm** to identify hidden relationships between energy sources.
     * Dynamic filtering for **Support, Confidence, and Lift** metrics.
     * Correlation heatmaps to visualize the co-occurrence of energy usage.
 * **📈 Growth Rates:** Real-time calculation of annual percentage changes in energy source consumption.
 * **🗺 Country-Specific Breakdown:** Detailed "Energy Basket" analysis with automated insights on the most/least dominant sources for any selected country.
-* **🔮 Predictive Forecasting:** * Utilizes **Prophet** for robust time-series forecasting.
+* **🔮 Predictive Forecasting:** Utilizes **Prophet** for robust time-series forecasting.
     * Predicts future consumption trends with uncertainty intervals (confidence levels).
     * Provides automated summaries of predicted growth or decline.
 
@@ -40,6 +40,6 @@ The dataset is curated from Our World in Data (OWID), covering a wide range of e
 ## 🎓 Graduation Thesis
 This project was developed as my **Computer Engineering Graduation Thesis**. 
 
-It represents a comprehensive study on global energy data, focusing on the implementation of data mining algorithms and machine learning models to analyze environmental impacts and future energy trends. The entire pipeline—from data preprocessing and analysis to the deployment of the web-based dashboard—was designed and implemented by me as the final requirement for my degree.
+It represents a comprehensive study on global energy data, focusing on the implementation of data mining algorithms and machine learning models to analyze environmental impacts and future energy trends. The entire pipeline from data preprocessing and analysis to the deployment of the web-based dashboard was designed and implemented by me as the final requirement for my degree.
 
 ---
