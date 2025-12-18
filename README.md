@@ -2,7 +2,7 @@
 
 An advanced data science and machine learning dashboard designed to analyze, visualize, and forecast global energy consumption patterns. This project was developed as part of a **Computer Engineering Bachelor's Graduation Project**.
 
-**🔗 Live Website:** [View the Dashboard on Streamlit](https://global-energy-insights-tracing-the-origins-and-outcomes.streamlit.app)
+**🔗 Live:** [Global Energy Insights: Tracing the Origins and Outcomes View the Dashboard on Streamlit](https://global-energy-insights-tracing-the-origins-and-outcomes.streamlit.app)
 
 ---
 
