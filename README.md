@@ -8,13 +8,13 @@ An advanced data science and machine learning dashboard designed to analyze, vis
 
 ## 🚀 Project Overview
 
-This dashboard serves as a comprehensive tool for researchers and energy analysts to understand how energy consumption has evolved globally. It doesn't just show historical data; it applies **Data Mining (Apriori)** to find associations between energy types and **Machine Learning (Prophet)** to forecast future needs.
+This dashboard serves as a comprehensive tool for researchers and energy analysts to understand how energy consumption has evolved globally. It doesn't just show historical data; it applies data mining to find associations between energy types and machine learning to forecast future needs.
 
 ### 📊 Key Modules
 
 * **🏠 Home:** Project mission and feature summary.
 * **🌍 Global Map:** Spatial analysis of per capita energy consumption across different eras using interactive Plotly choropleth maps.
-* **🌐 Deep Analysis (Data Mining):** * Uses the **Apriori Algorithm** to identify hidden relationships between energy sources.
+* **🌐 Deep Analysis:** * Uses the **Apriori Algorithm** to identify hidden relationships between energy sources.
     * Dynamic filtering for **Support, Confidence, and Lift** metrics.
     * Correlation heatmaps to visualize the co-occurrence of energy usage.
 * **📈 Growth Rates:** Real-time calculation of annual percentage changes in energy source consumption.
@@ -30,12 +30,12 @@ This dashboard serves as a comprehensive tool for researchers and energy analyst
 | **Framework** | Streamlit |
 | **Data Handling** | Pandas, NumPy, Scikit-learn |
 | **Data Mining** | MLxtend (Apriori & Association Rules) |
-| **Forecasting** | Prophet |
+| **Forecasting** | Prophet (Time Series modeling) |
 | **Visualization** | Plotly (Express & Graph Objects), Seaborn, Matplotlib |
 
 ## 📂 Data Source
 
-The dataset is curated from Our World in Data (OWID), covering a wide range of energy metrics including fossil fuels, renewables, and nuclear power across 200+ countries since 1965.
+The dataset is curated from Our World in Data (OWID), covering a wide range of energy metrics—including fossil fuels, renewables, and nuclear power—across over 200 countries from 1965 to 2024.
 
 ## 🎓 Graduation Thesis
 This project was developed as my **Computer Engineering Graduation Thesis**. 
