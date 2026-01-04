@@ -43,7 +43,7 @@ if page == "🏠 Home":
 
     st.image("background.png", use_container_width=True)
 
-    st.title("🔌 Global Energy Dashboard")
+    st.title("🔌 Global Energy Insights: Tracing the Origins and Outcomes")
     st.markdown("This interactive dashboard visualizes global energy consumption data from [Our World in Data](https://ourworldindata.org/energy).")
 
     st.markdown("### 📊 Features:")
