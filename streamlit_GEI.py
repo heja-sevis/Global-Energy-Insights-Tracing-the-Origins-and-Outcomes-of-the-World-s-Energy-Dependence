@@ -14,10 +14,11 @@ from prophet.plot import plot_plotly
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import numpy as np
 
-
-
 # Page setup
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="Global Energy Insights: Tracing the Origins and Outcomes",
+    layout="wide"
+)
 from streamlit_option_menu import option_menu
 with st.sidebar:
     page = option_menu(
